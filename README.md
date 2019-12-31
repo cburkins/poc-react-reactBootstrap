@@ -184,3 +184,7 @@ function Users() {
   return <h2>Users</h2>;
 }
 ```
+
+Now looks like this:
+
+![image](https://user-images.githubusercontent.com/9342308/71626254-43d27980-2bba-11ea-8f01-fbb33a7d908e.png)
